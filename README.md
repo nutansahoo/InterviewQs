@@ -1,5 +1,5 @@
 # Data Science Interviews
-Over the last few months, I have spent ungodly amounts of time preparing and interviewing for data-related roles at various companies. Let's just say, It's been a full-time commitment with no honeymoon phase, giving birth to this repo. 
+Over the last few months, I have spent ungodly amounts of time preparing and interviewing for data-related roles at various companies. Let's just say, It's been a full-time commitment with no honeymoon phase, and that gave birth to this repo. 
 I created this question bank to help other students like me who'd be going through the same phase.
 
 Only a few questions have answers right now (WIP). Please create a PR if you want to provide an answer, improve an answer or rectify a mistake. 
